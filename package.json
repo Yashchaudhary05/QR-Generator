@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.18",
+    "qr-image": "^3.2.0"
+  }
+}
